@@ -1,2 +1,2 @@
 matrix: Main.cpp matrix.cpp
-	g++ -о $@ $^
+	g++ -o $@ $^
